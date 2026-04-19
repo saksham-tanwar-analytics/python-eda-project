@@ -1,4 +1,4 @@
-# Python Group Project: Data Cleaning & EDA
+# Python Project: Data Cleaning & EDA
 
 ## Overview
 Collaborative data analytics project using Python to combine, clean, explore, and visualise multiple datasets. Focused on data quality, calculated fields, and producing an interactive analytical report.
