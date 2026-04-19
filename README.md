@@ -1,7 +1,5 @@
 # Python Group Project: Data Cleaning & EDA
 
-MSc Business Analytics — University College Cork (SEM 1)
-
 ## Overview
 Collaborative data analytics project using Python to combine, clean, explore, and visualise multiple datasets. Focused on data quality, calculated fields, and producing an interactive analytical report.
 
